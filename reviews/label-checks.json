@@ -1,0 +1,11 @@
+[
+ {"check_id":"CK-001","object_id":"OB-104","checked_utc":"2054-09-03T09:00:00Z","result":"replace","note":"Date range omits survey year","revision":1},
+ {"check_id":"CK-001","object_id":"OB-104","checked_utc":"2054-09-03T09:00:00Z","result":"replace","note":"Date range omits survey year","revision":2},
+ {"check_id":"CK-002","object_id":"OB-205","checked_utc":"2054-09-03T08:30:00Z","result":"approve","note":"Verified against accession file","revision":1},
+ {"check_id":"CK-003","object_id":"OB-411","checked_utc":"2054-09-03T09:15:00Z","result":"replace","note":"Maker attribution needs correction","revision":1},
+ {"check_id":"CK-004","object_id":"OB-526","checked_utc":"2054-09-03T07:45:00Z","result":"replace","note":"Loan label is outdated","revision":1},
+ {"check_id":"CK-005","object_id":"OB-319","checked_utc":"2054-09-03T08:00:00Z","result":"replace","note":"Stored object","revision":1},
+ {"check_id":"CK-006","object_id":"OB-104","checked_utc":"bad-time","result":"replace","note":"Broken timestamp","revision":1},
+ {"check_id":"CK-007","object_id":"OB-104","checked_utc":"2054-09-03T09:20:00Z","result":"replace","note":"Contains | pipe","revision":1},
+ {"check_id":"CK-008","object_id":"OB-999","checked_utc":"2054-09-03T09:25:00Z","result":"replace","note":"Unknown object","revision":1}
+]
